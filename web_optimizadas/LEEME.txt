@@ -1,0 +1,17 @@
+CARPETA web_optimizadas - archivos listos para la pagina web
+=============================================================
+
+Total: 14.5 MB (los originales sumaban ~700 MB).
+
+Estructura:
+  01_hero/        Hero de portada (8 imagenes) - 1600px WebP, 65-230 KB c/u
+  02_galeria/     Galeria de fotos (166 fotos) - 1600px WebP, 45-175 KB c/u
+  03_logos/       Logos con transparencia (7) - WebP lossless ~1px 1000
+  04_colores/     Fondos de color / papelería (7) - WebP 1200px
+  05_brandbook/   Brandbook: 14 paginas en WebP (668 KB total)
+
+Notas:
+  - El PDF original del brandbook (174 MB) se mantiene en:
+    logo_y_brandbook\Brandbook iced bar (final) 2.pdf
+  - Usa los WebP de 05_brandbook en la web; si necesitas el PDF para
+    descargar, enlaza al original (pesa mucho, no lo subas tal cual).
